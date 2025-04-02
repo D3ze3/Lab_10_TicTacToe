@@ -116,3 +116,14 @@ public class TicTacToe {
         return true;
     }
 }
+
+//1. Initialize the board
+// 2. Loop until a player wins or it's a tie:
+//    a. Display the board
+//    b. Get the player's move
+//    c. Validate the move (ensure it's not occupied)
+//    d. Record the move
+//    e. Check if the player has won or if it's a tie
+//    f. If game over, ask if players want to play again
+//    g. Switch players
+// 3. Reset the board for a new game if players want to continue
